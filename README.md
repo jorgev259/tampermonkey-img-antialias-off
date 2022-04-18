@@ -1,0 +1,1 @@
+Tampermonkey script that removes antialiasing from any image on a webpage
